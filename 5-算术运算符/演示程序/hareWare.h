@@ -1,4 +1,0 @@
-
-
-#define uchar unsigned char
-
